@@ -1,0 +1,26 @@
+{
+  "name": "logia",
+  "version": "1.1.0",
+  "description": "Défi Soixante Circuits",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorentinBu/Logia.git"
+  },
+  "author": "Corentin Burguiere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorentinBu/Logia/issues"
+  },
+  "homepage": "https://github.com/CorentinBu/Logia#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}

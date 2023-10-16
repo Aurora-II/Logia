@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Proxima";
+    src: url("Proxima Nova Thin.otf") format("truetype");
+}
+
+body {
+    background-image: url("bg.png");
+    background-size: 100% auto;
+    font-family: Proxima;
+}
+
+#box {
+    background-color: white;
+    outline: 1px black;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-top: 2%;
+    padding: 2%;
+    width: 20%;
+    font-size: 30px;
+}
+
+#boxChrono {
+    background-color: white;
+    outline: 1px black;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-top: 1%;
+    padding: 2%;
+    width: 20%;
+    font-size: 30px;
+}
+
+#boxDesc {
+    background-color: white;
+    outline: 1px black;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-top: 1%;
+    padding: 2%;
+    width: 20%;
+    font-size: 20px;
+}
